@@ -12,7 +12,7 @@ AWSのCloudFormationで以下の自動化設定を記載
   10.0.21.0/24(Private-1c)
   
 ・IGW
-
+　インターネットGW作成
 ・Security Group
 
 ・EC2
